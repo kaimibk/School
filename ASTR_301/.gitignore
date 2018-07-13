@@ -1,0 +1,17 @@
+/.ipynb_checkpoints/
+.DS_Store
+ASTRO301_Final.json
+
+/A1_Galaxy_SED/.DS_Store
+
+/A2_Data_Reduction/.DS_Store
+/A2_Data_Reduction/.ipynb_checkpoints/
+
+/A3_Source_Extractor/.ipynb_checkpoints/
+/A3_Source_Extractor/.DS_Store
+/A3_Source_Extractor/__pycache__/
+
+/A4_PanSTARRS/.DS_Store
+/A4_PanSTARRS/.ipynb_checkpoints/
+
+/A5_Analyses/
