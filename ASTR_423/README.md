@@ -6,3 +6,5 @@ Assignments and associated analysis for  _ASTR 423: Stellar Astrophysics_.
 
 **Assignments:**
 1. [Calculating the distance to the Pleiades](A1/)
+1. [Introduction to Stellar Spectra](A2/)
+1. [Binary Systems](A3/)
