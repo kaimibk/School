@@ -12,3 +12,4 @@ Assignments and associated analysis for  _ASTR 423: Stellar Astrophysics_.
 1. [Protostars](A5/)
 1. [Nuclear Reactions](A6/)
 1. [Equations of State and the Temperature-Density Plane](A7/)
+1. [The Astrophysical Distance Ladder](A8/)
